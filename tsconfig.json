@@ -27,7 +27,8 @@
       "@/*": [
         "./*"
       ]
-    }
+    },
+    "allowImportingTsExtensions": true // Agrega esta línea
   },
   "include": [
     "next-env.d.ts",
